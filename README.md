@@ -1,6 +1,6 @@
 Hey guys, this is Chuanhui Liu from Shanghai, welcome to my GitHub home page. Here are some brief introduction about me:
 
-🎓 Computer Science in Hebei University(2014-2018)  
+🎓 Network Engineering in Hebei University(2014-2018)  
 ⭐️ Game Developer - Server Side  
 ⭐️ Mainly Coding with Java, Being a Gopher(still learning)  
 ⭐️ Open-source supporter  
